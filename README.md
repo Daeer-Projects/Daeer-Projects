@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 ## About me
 
-* I'm an Armed Forces Veteran.
+* I'm an Armed Forces Veteran. ☠️
 * Full stack developer.
 * I like working in dotnet.
 * I mainly code in C#.
 * I have some repo's here that are live on NuGet.
-* I also like to write stories.
+* I also like to write stories. ✍️
 
 <br>
 
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 * 💬 ![AnyThing](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
 * 📫 How to reach me: Email, Twitter or LinkedIn.
 * 😄 Pronouns: He/Him.
-* ⚡ Fun fact: I've been to the North Pole.
+* ⚡ Fun fact: I've been to the North Pole. 💈
 
 ## Connect with me
 
@@ -55,12 +55,16 @@ Here are some ideas to get you started:
 
 ## Tools I use ✨
 
-![GIMP](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
 ![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white)
 ![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![SNYK](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
+![GIMP](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
 
 ## My GitHub Stats 😎
 
 ![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daeer-Projects&theme=onedark&show_icons=true)
+
+## Check out my book 📖
+
+[Among Us: The Skeld](https://www.amazon.com/dp/B09WLFX92N)
