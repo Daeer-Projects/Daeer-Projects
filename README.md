@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 ## About me
 
 * ☠️ I'm an Armed Forces Veteran.
-* <img src="Images/code-solid.svg" width="18" height="18"> Full stack developer.
-* <img src="Images/bug-slash-solid.svg" width="18" height="18"> I like working in dotnet.
-* <img src="Images/code-branch-solid.svg" width="18" height="18"> I have some repo's here that are live on NuGet.
+* </> Full stack developer.
+* 🖥️ I like working in dotnet.
+* ♾️ I have some repo's here that are live on NuGet.
 * ✍️ I also like to write stories.
 * 🔭 I’m currently working on Among Us: Mira story.
 * 🌱 I’m currently learning more C#, LaTeX and story writing.
