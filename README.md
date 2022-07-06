@@ -64,3 +64,17 @@ Here are some ideas to get you started:
 ## Check out my book 📖
 
 [Among Us: The Skeld](https://www.amazon.com/dp/B09WLFX92N)
+
+Its a story based on the game by InnerSloth. Here is the blurb:
+
+> Kyle Green finds his world turned upside-down when he boards 'The Skeld'. A young woman, Yellow, captures his heart, but something happens. Something starts picking off his crewmates one by one. The simple transit spirals into a nightmare of fear and distrust.
+>
+> Green and Yellow find comfort together as their fellow crewmates get brutally murdered around them.
+>
+> Danger lurks in dark corners!
+>
+> Don't be alone!
+>
+> There is an Imposter among us!
+>
+> Can they survive long enough to find love, or will the Imposter get them?
