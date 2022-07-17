@@ -17,19 +17,31 @@ Here are some ideas to get you started:
 
 ## About me
 
-* ☠️ I'm an Armed Forces Veteran.
-* </> Full stack developer.
-* 🖥️ I like working in dotnet.
-* ♾️ I have some repo's here that are live on NuGet.
-* ✍️ I also like to write stories.
-* 🔭 I’m currently working on Among Us: Mira story.
-* 🌱 I’m currently learning more C#, LaTeX and story writing.
-* 👯 I’m looking to collaborate on any repo where people need help.
-* 🤔 I’m looking for help with [Database Operations](https://github.com/Daeer-Projects/DatabaseOperations).
-* 💬 ![AnyThing](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
-* 📫 How to reach me: Email, Twitter or LinkedIn.
-* 😄 Pronouns: He/Him.
-* ⚡ Fun fact: I've been to the North Pole. 💈
+☠️ I'm an Armed Forces Veteran.
+
+</> Full stack developer.
+
+🖥️ I like working in dotnet.
+
+♾️ I have some repo's here that are live on NuGet.
+
+✍️ I also like to write stories.
+
+🔭 I’m currently working on Among Us: Mira story.
+
+🌱 I’m currently learning more C#, LaTeX and story writing.
+
+👯 I’m looking to collaborate on any repo where people need help.
+
+🤔 I’m looking for help with [Database Operations](https://github.com/Daeer-Projects/DatabaseOperations).
+
+💬 ![AnyThing](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
+
+📫 How to reach me: Email, Twitter or LinkedIn.
+
+😄 Pronouns: He/Him.
+
+⚡ Fun fact: I've been to the North Pole. 💈
 
 ## Connect with me 🤓
 
