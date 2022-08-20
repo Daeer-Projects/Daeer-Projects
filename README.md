@@ -75,9 +75,9 @@ Here are some ideas to get you started:
 
 ## Check out my book 📖
 
-[Among Us: The Skeld](https://www.amazon.com/dp/B09WLFX92N)
+[Among Us: The Skeld]
 
-Its a story based on the game by InnerSloth. Here is the blurb:
+It's a story based on the game by InnerSloth. Here is the blurb:
 
 > Kyle Green finds his world turned upside-down when he boards 'The Skeld'. A young woman, Yellow, captures his heart, but something happens. Something starts picking off his crewmates one by one. The simple transit spirals into a nightmare of fear and distrust.
 >
