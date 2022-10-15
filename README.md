@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 
 ## Check out my book 📖
 
-[Among Us: The Skeld]
+[Among Us: The Skeld](https://www.amazon.co.uk/dp/B09WLFX92N)
 
 It's a story based on the game by InnerSloth. Here is the blurb:
 
