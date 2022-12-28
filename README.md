@@ -79,14 +79,26 @@ Here are some ideas to get you started:
 
 It's a story based on the game by InnerSloth. Here is the blurb:
 
-> Kyle Green finds his world turned upside-down when he boards 'The Skeld'. A young woman, Yellow, captures his heart, but something happens. Something starts picking off his crewmates one by one. The simple transit spirals into a nightmare of fear and distrust.
+> **Kyle Green** finds his world turned upside-down when he boards 'The Skeld'. A simple transit from Polus to Mira turns into a nightmare.
 >
-> Green and Yellow find comfort together as their fellow crewmates get brutally murdered around them.
+> **Commander Honor White** commands the small crew of the Skeld, fending off disrespect and jealousy. Some of the crewmates hate her for being in command.
 >
-> Danger lurks in dark corners!
+> **Yellow Nuwa** finds herself attracted to Green. Will she allow herself to get close to him? Is he kind and gentle? Is he like all other boys, wanting one thing? She has to figure out if he likes her and if he can be trusted.
+?
+> As the journey progresses, Green and Yellow get thrown together as something starts picking off the crewmates one by one. Brown and Orange investigate, but fear and distrust hamper their investigation. Arguments split the crewmates apart leaving them exposed.
 >
-> Don't be alone!
+> White keeps the work progressing as tasks still need to be done. Can she keep them working together as things go wrong? What or who is killing her crew?
 >
-> There is an Imposter among us!
+> Sabotage and death await the small group of crewmates. Will they reach Mira alive? Or will they fall to the imposter?
 >
-> Can they survive long enough to find love, or will the Imposter get them?
+>
+> **Danger lurks in dark corners!**
+>
+> **Don't be alone!**
+>
+> **There is an Imposter among us!**
+>
+> Can Green and Yellow survive long enough to find love, or will the Imposter get them? Read to find out!
+>
+>
+> **Innersloth** created the hit game Among Us. The game provided the basis for this 'unofficial' story.
