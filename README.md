@@ -83,8 +83,7 @@ It's a story based on the game by InnerSloth. Here is the blurb:
 >
 > **Commander Honor White** commands the small crew of the Skeld, fending off disrespect and jealousy. Some of the crewmates hate her for being in command.
 >
-> **Yellow Nuwa** finds herself attracted to Green. Will she allow herself to get close to him? Is he kind and gentle? Is he like all other boys, wanting one thing? She has to figure out if he likes her and if he can be trusted.
-?
+> **Yellow Nuwa** finds herself attracted to Green. Will she allow herself to get close to him? Is he kind and gentle? Is he like all other boys, wanting one thing? She has to figure out if he likes her and if he can be trusted?
 > As the journey progresses, Green and Yellow get thrown together as something starts picking off the crewmates one by one. Brown and Orange investigate, but fear and distrust hamper their investigation. Arguments split the crewmates apart leaving them exposed.
 >
 > White keeps the work progressing as tasks still need to be done. Can she keep them working together as things go wrong? What or who is killing her crew?
