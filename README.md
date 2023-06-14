@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 ### View my C.V./Resume
 
-[My CV in pdf format](https://github.com/Daeer-Projects/CV/releases/download/2023/DavidClark.pdf)
+[My CV in pdf format](https://github.com/Daeer-Projects/Daeer-Projects/releases/download/2023/DavidClark.pdf)
 
 ## Tech Stack 🚀
 
