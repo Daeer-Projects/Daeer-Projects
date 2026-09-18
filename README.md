@@ -77,4 +77,5 @@ If you are interested in viewing my CV, then you can click the link below.
 
 ## My GitHub Stats 😎
 
-![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daeer-Projects&theme=onedark&show_icons=true)
+![Followers](https://img.shields.io/github/followers/Daeer-Projects?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=0078D6)
+![Stars](https://img.shields.io/github/stars/Daeer-Projects?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=0078D6)
