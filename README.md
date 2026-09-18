@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 If you are interested in viewing my CV, then you can click the link below.
 
-[My CV in pdf format](https://github.com/Daeer-Projects/Daeer-Projects/releases/download/2023/DavidClark.pdf)
+[My CV in pdf format](https://github.com/Daeer-Projects/Daeer-Projects/releases/download/2026/cv.pdf)
 
 ## Tech Stack 🚀
 
